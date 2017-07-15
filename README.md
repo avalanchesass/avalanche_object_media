@@ -1,6 +1,8 @@
 # avalanchesass_object_media
 Media object - image on left/right, text next to it.
 
+**ATTENTION:** This package is outdated, you can find the latest release under a new name: https://www.npmjs.com/package/@avalanche/object-media
+
 ## Install
 ```
 npm install avalanchesass_object_media --save
